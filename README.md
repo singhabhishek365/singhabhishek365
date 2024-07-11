@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Abhishek_singh
-- 👀 I’m interested in learning new things...
-- 🌱 I’m currently learning flutter...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me singh_abhishek_365 (insta)...
 
-<!---
-singhabhishek365/singhabhishek365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Abhishek Singh
+👀 I’m interested in building innovative mobile applications and exploring new technologies.
+🌱 I’m currently honing my skills in Flutter, crafting high-performance and beautiful cross-platform apps.
+💼 I have over 2 years of experience as a Flutter developer and 1.5 years as an IoT Project Engineer.
+💞️ I’m looking to collaborate on exciting Flutter projects and open-source contributions.
+📫 How to reach me: @singh_abhishek_365 on Instagram.
